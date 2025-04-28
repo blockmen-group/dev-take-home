@@ -1,0 +1,354 @@
+[
+  {
+    "id": "32054036044-1",
+    "name": "Hays City Store & Ice House",
+    "main_class": [
+      "restaurant_and_bar"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "8989 Ranch to Market Rd 150",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 308075,
+      "beer": 79053,
+      "cover": 0,
+      "wine": 12814,
+      "liquor": 216208
+    },
+    "sum": 2494951,
+    "avg": 226813.72727272726,
+    "chain": "Independent",
+    "food_genre": "american",
+    "characteristics": [
+      "sports_bar",
+      "brunch",
+      "live_music",
+      "outdoor_seating"
+    ],
+    "bar_type": "nothing_special",
+    "activity_focus": null,
+    "license_name": "HAYS CITY STORE",
+    "license_address": "8989 FM 150 W",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB104183220",
+      "RM893944"
+    ],
+    "issue_date": "2014-12-30",
+    "expiration_date": null,
+    "active_for": 123,
+    "taxpayer_id": "32054036044",
+    "taxpayer_name": "tindol restaurant group l.l.c."
+  },
+  {
+    "id": "32039889392-1",
+    "name": "Trattoria Lisina",
+    "main_class": [
+      "event_venue",
+      "restaurant"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "13308 Ranch to Market Rd 150",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 124318,
+      "beer": 5371,
+      "cover": 0,
+      "wine": 75300,
+      "liquor": 43647
+    },
+    "sum": 1458038,
+    "avg": 132548.9090909091,
+    "chain": "Independent",
+    "food_genre": "italian",
+    "characteristics": [
+      "brunch",
+      "playground",
+      "resort",
+      "outdoor_seating"
+    ],
+    "bar_type": null,
+    "activity_focus": null,
+    "license_name": "TRATTORIA LISINA",
+    "license_address": "13308 FM 150 W",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB104167450",
+      "MB916615"
+    ],
+    "issue_date": "2015-08-06",
+    "expiration_date": null,
+    "active_for": 116,
+    "taxpayer_id": "32039889392",
+    "taxpayer_name": "trattoria lisina llc"
+  },
+  {
+    "id": "32061496108-1",
+    "name": "Desert Door Distillery",
+    "main_class": [
+      "distillery"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "211 Darden Hill Rd",
+    "most_recent": {
+      "receipt_date": "2025-02",
+      "total": 33753,
+      "beer": 0,
+      "cover": 0,
+      "wine": 0,
+      "liquor": 33753
+    },
+    "sum": 449432,
+    "avg": 40857.454545454544,
+    "chain": "Independent",
+    "food_genre": null,
+    "characteristics": [
+      "food_trucks",
+      "live_music",
+      "distillery",
+      "outdoor_seating",
+      "cocktails"
+    ],
+    "bar_type": null,
+    "activity_focus": null,
+    "license_name": "DESERT DOOR",
+    "license_address": "211 DARDEN HILL RD BLDG A200",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "D 105210820",
+      "D 982299"
+    ],
+    "issue_date": "2017-05-15",
+    "expiration_date": null,
+    "active_for": 95,
+    "taxpayer_id": "32061496108",
+    "taxpayer_name": "ckl distilling, llc"
+  },
+  {
+    "id": "32086683771-1",
+    "name": "Mean Eyed Cat Driftwood",
+    "main_class": [
+      "bar"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "8750 W RR 150 Suite 100",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 92283,
+      "beer": 30306,
+      "cover": 0,
+      "wine": 2233,
+      "liquor": 59744
+    },
+    "sum": 284512,
+    "avg": 71128,
+    "chain": "Independent",
+    "food_genre": null,
+    "characteristics": [
+      "sports_bar",
+      "billiards",
+      "outdoor_seating"
+    ],
+    "bar_type": "sports_bar",
+    "activity_focus": null,
+    "license_name": "MEAN EYED CAT DRIFTWOOD",
+    "license_address": "8750 W RANCH ROAD 150 BLDG 100",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB200136636"
+    ],
+    "issue_date": "2024-09-01",
+    "expiration_date": null,
+    "active_for": 7,
+    "taxpayer_id": "32086683771",
+    "taxpayer_name": "mec driftwood lp"
+  },
+  {
+    "id": "32049385209-2",
+    "name": "Mercer Dancehall",
+    "main_class": [
+      "bar",
+      "restaurant_and_bar"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "23490 Ranch Rd 12",
+    "most_recent": {
+      "receipt_date": "2025-02",
+      "total": 9186,
+      "beer": 3104,
+      "cover": 0,
+      "wine": 584,
+      "liquor": 5498
+    },
+    "sum": 148206,
+    "avg": 13473.272727272728,
+    "chain": "Independent",
+    "food_genre": "other",
+    "characteristics": [
+      "live_music",
+      "dancing",
+      "outdoor_seating"
+    ],
+    "bar_type": "live_music_bar",
+    "activity_focus": null,
+    "license_name": "MERCER STREET DANCEHALL",
+    "license_address": "23490 RANCH ROAD 12",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB104076624",
+      "MB883621"
+    ],
+    "issue_date": "2018-07-17",
+    "expiration_date": null,
+    "active_for": 81,
+    "taxpayer_id": "32049385209",
+    "taxpayer_name": "mercer street dancehall, llc"
+  },
+  {
+    "id": "32076777930-3",
+    "name": "Thurman's Mansion",
+    "main_class": [
+      "event_venue"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "17900 Ranch to Market Rd 1826",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 28625,
+      "beer": 55,
+      "cover": 0,
+      "wine": 27900,
+      "liquor": 670
+    },
+    "sum": 92853,
+    "avg": 8441.181818181818,
+    "chain": "Independent",
+    "food_genre": null,
+    "characteristics": [],
+    "bar_type": null,
+    "activity_focus": null,
+    "license_name": "DRIFTWOOD FOOD & BEVERAGE, LLC",
+    "license_address": "17900 FM 1826",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB200067123"
+    ],
+    "issue_date": "2022-09-28",
+    "expiration_date": null,
+    "active_for": 30,
+    "taxpayer_id": "32076777930",
+    "taxpayer_name": "driftwood food & beverage, llc"
+  },
+  {
+    "id": "32087421866-1",
+    "name": "Driftwood Axe House & Bar",
+    "main_class": [
+      "activity_venue"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "18992 Ranch to Market Rd 150 Suite 201 & 203",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 10257,
+      "beer": 4761,
+      "cover": 0,
+      "wine": 232,
+      "liquor": 5264
+    },
+    "sum": 82926,
+    "avg": 7538.727272727273,
+    "chain": "Independent",
+    "food_genre": null,
+    "characteristics": [
+      "sports_bar",
+      "poker",
+      "food_trucks",
+      "playground",
+      "resort",
+      "kid_friendly"
+    ],
+    "bar_type": null,
+    "activity_focus": [
+      "axe_throwing"
+    ],
+    "license_name": "DRIFTWOOD SPORTS BAR LLC",
+    "license_address": "18992 FM 150 W STE 201",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB200082181"
+    ],
+    "issue_date": "2023-02-17",
+    "expiration_date": null,
+    "active_for": 26,
+    "taxpayer_id": "32087421866",
+    "taxpayer_name": "driftwood sports bar llc"
+  },
+  {
+    "id": "32076777930-1",
+    "name": "416 Thurman Roberts Wy",
+    "main_class": [
+      "unclassified"
+    ],
+    "active": true,
+    "city": "Driftwood",
+    "zipcode": "78619",
+    "address": "416 Thurman Roberts Wy",
+    "most_recent": {
+      "receipt_date": "2025-03",
+      "total": 1958,
+      "beer": 45,
+      "cover": 0,
+      "wine": 991,
+      "liquor": 922
+    },
+    "sum": 21164,
+    "avg": 4232.8,
+    "chain": null,
+    "food_genre": null,
+    "characteristics": null,
+    "bar_type": null,
+    "activity_focus": null,
+    "license_name": "DRIFTWOOD FOOD & BEVERAGE, LLC",
+    "license_address": "416 THURMAN ROBERTS WAY",
+    "license_city": "DRIFTWOOD",
+    "license_county": "Hays",
+    "license_zip": "78619",
+    "tabc_permit_number": [
+      "MB107160796",
+      "RM1122728"
+    ],
+    "issue_date": "2021-06-23",
+    "expiration_date": null,
+    "active_for": 45,
+    "taxpayer_id": "32076777930",
+    "taxpayer_name": "driftwood food & beverage, llc"
+  }
+]
